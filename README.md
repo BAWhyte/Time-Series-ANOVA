@@ -1,2 +1,4 @@
 # Time-Series-ANOVA
-Repeated measures ANOVA to notice reduced response to an alarm signal over time
+* *This work has been [published](https://www.mdpi.com/2075-4450/11/12/871/htm), and this repository simply highlights one method used in this experiment that is likely useful for many other behavioral experiments* *
+
+
